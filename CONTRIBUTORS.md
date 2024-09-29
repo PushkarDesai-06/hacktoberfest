@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Pushkar Desai](https://github.com/PushkarDesai-06)
+- Place: Satara, Maharashtra, India
+- Bio: CS Student
+- GitHub: [PushkarDesai-06](https://github.com/PushkarDesai-06)
